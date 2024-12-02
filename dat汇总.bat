@@ -1,0 +1,1 @@
+copy *.DAT 111AAA.DAT
